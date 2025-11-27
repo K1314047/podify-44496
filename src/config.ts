@@ -48,12 +48,12 @@ export const site: Site = {
   pageSize: 10,
   defaultDescriptionLength: 150,
   seo: {
-    siteName: '整点薯条吧',
-    defaultTitle: '整点薯条吧',
+    siteName: 'YouTuBe视频播客订阅',
+    defaultTitle: '开车必备',
     defaultDescription: '人生的意义就是去码头整点薯条',
-    defaultImage: 'https://files.guoqi.dev/podcast-og.png',
-    twitterHandle: '@sun0225SUN',
+    defaultImage: 'https://pic1.imgdb.cn/item/6928699d3203f7be0038fcb2.jpg',
+    twitterHandle: '@ayig61',
     locale: 'zh_CN',
   },
-  favicon: 'https://files.guoqi.dev/podcast-favicon.ico',
+  favicon: 'https://pic1.imgdb.cn/item/692869e53203f7be0038feb1.jpg',
 }
